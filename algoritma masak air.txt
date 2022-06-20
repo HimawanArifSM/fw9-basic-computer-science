@@ -1,0 +1,10 @@
+algoritma masak air
+
+1. start
+2. mengambil wajan 500ml sebagai wadah/ take the bowl
+3. mengambil air 350ml dari kran dan menampung dengan wadah/ add water into the bowl from "kran"
+4. letakkan wadah diatas kompor / place the bowl of water at the stove
+5. nayalakan kompor dengan api besar / turn on the stove with big fire
+6. tunggu hingga air mendidih sekitar 100C / wait til the water boiling around 100C
+7. matikan kompor / turn off the stove
+8. end.

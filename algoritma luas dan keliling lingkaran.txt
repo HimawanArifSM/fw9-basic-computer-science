@@ -1,0 +1,15 @@
+algoritma menghitung luas dan keliling lingkaran
+
+luas
+1. start
+2. lihat baca dan tentukan jari jari lingkaran / read the radius of circle
+3. hitung luas lingkaran dengan rumus pi*radius^2 / calculate the area of a circle using this formula pi*radius^2
+4. hasil telah diketahui / we find the answer
+5. end
+
+keliling
+1. start
+2. lihat baca dan tentukan diameter lingkaran / read the diameter of circle
+3. hitung keliling lingkaran dengan rumus pi*diameter / calculate the circumferance of a circle using this formula pi*diameter
+4. hasil telah diketahui / we find the answer
+5. end

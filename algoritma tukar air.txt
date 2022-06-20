@@ -1,0 +1,8 @@
+algoritma menukar air teh dan kopi
+
+1. start
+2. prepare cup full of tea and coffe, and 1 empty cup
+3. pour one cup full of tea into the empty cup
+4. pour the coffe into the empty cup from tea
+5. pour the tea into the empty cup from coffe
+6. end

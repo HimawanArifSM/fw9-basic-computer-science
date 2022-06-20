@@ -1,0 +1,9 @@
+algoritma menghitung luas dan keliling lingkaran
+
+luas
+1. start
+2. tentukan jari jari lingkaran
+3. a. hitung luas lingkaran dengan rumus pi*radius^2
+	b. hitung keliling lingkaran dengan rumus pi*2*radius
+4. hasil telah diketahui 
+5. end

@@ -1,0 +1,7 @@
+algoritma menentukan nilai terbesar
+
+1. start
+2. input variabel x dan y
+3. if x>y then write nilai x lebih besar dari nilai y
+4. else then write nilai y lebih besar dari nilai x
+5. end

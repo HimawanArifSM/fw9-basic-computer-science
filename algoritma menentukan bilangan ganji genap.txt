@@ -1,0 +1,7 @@
+algoritma menentukan bilangan ganjil genap
+
+1. start
+2. input variabel x
+3. if x modulo 2 is 0 then write nilai x adalah bilangan genap
+4. else then write nilai x adalah bilangan ganjil
+5. end
